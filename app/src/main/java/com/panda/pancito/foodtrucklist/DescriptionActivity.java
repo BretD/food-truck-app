@@ -30,7 +30,7 @@ public class DescriptionActivity extends Activity{
     }
 
     public void openMenu(View view) {
-        Intent infoMenu = new Intent(DescriptionActivity.this, MenuActivity.class);
-
+        Intent Menu = new Intent(DescriptionActivity.this, MenuActivity.class);
+        startActivity(Menu);
     }
 }

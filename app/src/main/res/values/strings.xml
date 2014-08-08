@@ -6,6 +6,30 @@
     <string name="action_settings">Settings</string>
     <string name="truck_name">Richky\'s</string>
     <string name="menu_label">Menu</string>
-    <string name="chewys_menu">Menu</string>
+    <string name="chewys_menu">
+        <![CDATA[
+        <h3 style="text-align: center;"><span style="text-align: center;">Americano</span><br />
+        <span style="text-align: center;">Macchiato</span><br />
+        <span style="text-align: center;">Cappuccino</span><br />
+        <span style="text-align: center;">Latte</span><br />
+        <span style="text-align: center;">Mocha</span><br />
+        <span style="text-align: center;">Coffee</span><br />
+        <span style="text-align: center;">Chemex</span><br />
+        <span style="text-align: center;">Cold Brew</span></h3>
+        <p style="text-align: center;"></div><div class="one_half last">
+        <h2 style="text-align: center;"><span style="text-align: center;"><strong>Not Coffee and Espresso</strong><div class="clearboth"></div><div class="demo-sep sep-double" style="margin-top:10px;margin-bottom:10px;"></div></span></h2>
+        <h3 style="text-align: center;"><span style="text-align: center;">Hot Chocolate</span><br />
+        <span style="text-align: center;">Chai Tea Latte</span><br />
+        <span style="text-align: center;">Tea: Black, Green, Earl Grey, Mint, Rooibos Chai</span><br />
+        <span style="text-align: center;">Flat water</span><br />
+        <span style="text-align: center;">Sparkling water</span><br />
+        <span style="text-align: center;">OJ</span><br />
+        <span style="text-align: center;">Lemonade</span><br />
+        <span style="text-align: center;">Iced Tea: Black, Strawberry Ginger</span><br />
+        <span style="text-align: center;">1/2 &amp; 1/2 lemonade &amp; iced tea</span><br />
+        <span style="text-align: center;">Artisan Sodas</span></h3>
+        <p style="text-align: center;"></div><div class="clearboth"></div>
+        ]]>
+        </string>
 
 </resources>

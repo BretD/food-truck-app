@@ -20,6 +20,12 @@
             android:name=".DescriptionActivity"
             android:label="Info" >
         </activity>
+        <activity
+            android:name=".MenuActivity"
+            android:label="Menu" >
+
+        </activity>
+
     </application>
 
 </manifest>
