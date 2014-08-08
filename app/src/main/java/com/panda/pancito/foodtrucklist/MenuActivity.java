@@ -14,6 +14,7 @@ public class MenuActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.menu_activity);
         TextView men = (TextView) findViewById(R.id.menu);
-        men.setText(Html.fromHtml(getString(R.string.chewys_menu)));
+        men.setText(Html.fromHtml(getString(R.string.koja_menu)));
+
     }
 }

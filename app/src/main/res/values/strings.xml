@@ -6,7 +6,7 @@
     <string name="action_settings">Settings</string>
     <string name="truck_name">Richky\'s</string>
     <string name="menu_label">Menu</string>
-    <string name="chewys_menu">
+    <string name="hubub_menu">
         <![CDATA[
         <h3 style="text-align: center;"><span style="text-align: center;">Americano</span><br />
         <span style="text-align: center;">Macchiato</span><br />
@@ -31,5 +31,49 @@
         <p style="text-align: center;"></div><div class="clearboth"></div>
         ]]>
         </string>
+    <string name="koja_menu">
+        <![CDATA[<h3>Grilled $6.50</h3>
+        <p class="subtitle">Served With Steamed Rice &amp; Fried Dumplings</p>
+        <table class="prices-three"><tbody><tr><th><cite>Chicken Sukiyaki</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><th><cite>Beef Sukiyaki</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+        <tr><th><cite>Chicken Teriyaki</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+        <tr><th><cite>Chicken Bulgoki</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+        <tr><th><cite>Beef Bulgoki</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        </td></tr><tr><th><cite>Pork Bulgoki</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;
+        </td><td>&nbsp;</td></tr><tr><th><cite>Beef Teriyaki</cite>&nbsp;
+        spicy</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table><h3>Stir Fry</h3>
+        <p class="subtitle">Served With Steamed Rice &amp; Fried Dumplings; Hot And Spicy</p>
+        <table class="prices-three"><tbody><tr><th><cite>Tofu</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        5.00</td></tr><tr><th><cite>Chicken</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        5.00</td></tr><tr><th><cite>Beef</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        6.50</td></tr><tr><th><cite>Squid</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        6.00</td></tr></tbody></table><h3>Noodle Platter</h3>
+        <p class="subtitle">Hot And Spicy</p><table class="prices-three"><tbody><tr><th><cite>Tofu</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;5.50</td></tr><tr><th><cite>Chicken</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        5.00</td></tr><tr><th><cite>Beef</cite>&nbsp;
+        </th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        6.50</td></tr><tr><th><cite>Squid</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        6.00</td></tr></tbody></table><h3>Specials</h3><table class="prices-three"><tbody><tr><th>
+        <cite>Job Chae</cite>&nbsp;hot or mild</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        6.50</td></tr><tr><th><cite>Udon</cite>&nbsp;noodle soup</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        5.00</td></tr><tr><th><cite>Chicken Teriyaki Soba</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        5.00</td></tr><tr><th><cite>Chicken Sukiyaki Soba</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        5.00</td></tr><tr><th><cite>Kim Bob</cite>&nbsp;friday only; free can soda</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        4.00</td></tr><tr><th><cite>Kimchi Chigae</cite>&nbsp;boiled kimchi with meat</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        5.00</td></tr><tr><th><cite>Curry Rice</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        5.00</td></tr></tbody></table><h3>Side Dishes</h3><table class="prices-three"><tbody><tr><th><cite>Kim Chi</cite>&nbsp;
+        </th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        1.00</td></tr><tr><th><cite>9 Dumplings</cite>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        3.00</td></tr></tbody></table><h3>Beverages</h3><table class="prices-three"><tbody><tr><th><cite>Can Soda</cite>&nbsp;
+        </th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+        1.50</td></tr><tr><th><cite>Bottled Soda</cite>&nbsp;
+        </th><td>&nbsp;
+        </td><td>&nbsp;
+        </td><td>&nbsp;1.00</td></tr>
+        <tr><th><cite>Bottled Water</cite>&nbsp;
+        </th><td>&nbsp;</td><td>&nbsp;
+        </td><td>&nbsp;1.00</td></tr>
+        <tr><th><cite>Fruit Juice</cite>&nbsp;
+        </th><td>&nbsp;</td><td>&nbsp;
+        </td><td>&nbsp;1.35</td></tr></tbody></table> ]]>
+    </string>
 
 </resources>
